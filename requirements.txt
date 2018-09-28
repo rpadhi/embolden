@@ -8,3 +8,4 @@ numpy==1.15.2
 pathpy2==2.0.1
 PyHamcrest==1.9.0
 scipy==1.1.0
+gunicorn==19.9.0
