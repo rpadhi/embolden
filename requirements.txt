@@ -1,4 +1,4 @@
-conda==4.5.11
+conda==4.3.16
 Django==2.1.1
 Flask==1.0.2
 ipython==6.5.0
