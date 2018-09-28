@@ -127,7 +127,6 @@ pyOpenSSL==18.0.0
 pyparsing==2.2.0
 PySocks==1.6.8
 pytest==3.8.0
-python==3.7.0
 python-dateutil==2.7.3
 pytz==2018.5
 PyYAML==3.13
