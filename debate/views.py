@@ -35,8 +35,10 @@ def run(card_text):
 
     fWriterInt = open('cardSpaced.txt','w')
 
-
-    LineList = card_text.split('. ')
+    fullText = card_text
+    combinedParagraphs = " ".join(line.strip() for line in fullText)
+    
+    LineList = combinedParagraphs.split('. ')
     for line in LineList:
         fWriterInt.write(line.strip() + "." + "\n")
 
