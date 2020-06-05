@@ -1,5 +1,5 @@
 conda==4.3.16
-Django==2.1.1
+Django==2.2.13
 Flask==1.0.2
 ipython==6.5.0
 Jinja2==2.10
